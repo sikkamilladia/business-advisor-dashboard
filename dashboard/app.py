@@ -14,7 +14,7 @@ df = eda.load_data()
 df = insight.add_profit_columns(df)
 
 st.title("Business Advisor Dashboard")
-st.markdown("Hello Cikaaa 🥺💖 Ini dashboardmu yang ciamik banget~ Let's analyze the biz 🔍")
+st.markdown("Hello this is your dashboard~ Let's analyze the biz 🔍")
 
 # Sidebar filter
 st.sidebar.header("Filter")
