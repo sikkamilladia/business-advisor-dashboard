@@ -1,3 +1,8 @@
+import sys
+import os
+# Fix to let Python find the 'src' folder
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
 import streamlit as st
 import pandas as pd
 from src import eda, insight
