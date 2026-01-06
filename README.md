@@ -4,6 +4,9 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.0%2B-red)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)][(https://business-advisor-dashboard.streamlit.app/)]
+
+> **View Live Dashboard:** [Click Here](https://business-advisor-dashboard.streamlit.app/)
 > **Transforming raw data into actionable business intelligence.**
 
 ## 📖 Overview
